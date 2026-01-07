@@ -34,7 +34,7 @@ L’architecture du projet est composée des éléments suivants :
 	•	Interface Web Zabbix (incluse dans l’image officielle Zabbix)
 	•	Docker & Docker Compose pour le déploiement
 
-<img width="928" height="535" alt="Structure" src="https://github.com/user-attachments/assets/cebaad5d-8690-443c-86d6-aa538d16ff9f" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1a02d8a2-1f87-4f2c-83d8-cd2b9f5add49" />
 
 
 ⸻
